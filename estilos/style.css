@@ -10,7 +10,9 @@ body{
 }
 
 main{
-    background-color: white;
+    background-color: rgb(234, 231, 250);
     max-width: 1000px;
     min-width: 600px;
+    margin: 14px;
+    padding: 8px;
 }
