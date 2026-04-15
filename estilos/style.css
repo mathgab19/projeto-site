@@ -16,6 +16,7 @@ main{
     min-width: 400px;
     margin: 20px auto;
     padding: 10px;
+    border-radius: 9px;
 }
 
 main h1{
@@ -36,12 +37,6 @@ main p{
     padding: 5px;
 }
 
-footer{
-    background-color: rgb(50, 40, 114);
-}
-
-footer p{
-    color: rgb(229, 226, 252);
-    text-align: center;
-    font-size: 0.5em;
+main strong{
+    color: rgb(50, 40, 114);
 }
