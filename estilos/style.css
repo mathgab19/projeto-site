@@ -6,14 +6,42 @@
 }
 
 body{
-    background-color: rgb(9, 8, 14);
+    background-image: radial-gradient(rgb(14, 12, 26), rgb(21, 19, 29));
+    font-family: Cambria, Times, 'Times New Roman', serif;
 }
 
 main{
-    background-color: rgb(234, 231, 250);
-    max-width: 1000px;
-    min-width: 600px;
-    margin: auto;
-    padding: 15px;
+    background-color: rgb(229, 226, 252);
+    max-width: 600px;
+    min-width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+}
 
+main h1{
+    text-align: center;
+    padding: 15px;
+    font-size: 2.3em;
+    color: rgb(50, 40, 114);
+}
+
+main h2{
+    padding: 8px 0px;
+    color: rgb(65, 54, 138);
+}
+
+main p{
+    text-align: justify;
+    text-indent: 25px;
+    padding: 5px;
+}
+
+footer{
+    background-color: rgb(50, 40, 114);
+}
+
+footer p{
+    color: rgb(229, 226, 252);
+    text-align: center;
+    font-size: 0.5em;
 }
